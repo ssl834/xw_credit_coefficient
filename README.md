@@ -1,0 +1,2 @@
+# xw_credit_coefficient
+credit_area_coefficient
